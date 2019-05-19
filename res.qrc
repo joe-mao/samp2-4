@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/BLD.PNG</file>
+        <file>image/copy.PNG</file>
+        <file>image/cut.PNG</file>
+        <file>image/exit.PNG</file>
+        <file>image/ITL.PNG</file>
+        <file>image/new.PNG</file>
+        <file>image/open.PNG</file>
+        <file>image/paste.PNG</file>
+        <file>image/WORDUNDR.PNG</file>
+        <file>image/clear.PNG</file>
+        <file>image/Font.PNG</file>
+        <file>image/toolBarLab.PNG</file>
+    </qresource>
+</RCC>
